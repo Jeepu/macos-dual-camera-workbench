@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleIdentifier</key>
+    <string>local.dataset.dual-camera-collector</string>
+    <key>CFBundleExecutable</key>
+    <string>CameraCollector</string>
+    <key>CFBundleName</key>
+    <string>CameraCollector</string>
+    <key>CFBundleDisplayName</key>
+    <string>Camera Collector</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>LSUIElement</key>
+    <true/>
+    <key>NSCameraUsageDescription</key>
+    <string>Camera Collector uses your two USB cameras to take hourly dataset photos.</string>
+</dict>
+</plist>
